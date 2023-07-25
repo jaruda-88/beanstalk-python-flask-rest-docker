@@ -16,3 +16,5 @@ referencing==0.29.1
 rpds-py==0.8.10
 six==1.16.0
 Werkzeug==2.3.6
+# pip install awsebcli 설치 에러시    
+# pip install pip==21.3.1
